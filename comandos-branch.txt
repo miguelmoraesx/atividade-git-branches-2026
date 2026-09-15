@@ -1,0 +1,5 @@
+git branch feature/documentacao
+git switch feature/documentacao
+git merge feature/documentacao
+
+Esses comandos criam, acessam e integram uma branch de trabalho.
