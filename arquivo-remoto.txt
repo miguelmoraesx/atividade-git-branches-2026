@@ -1,0 +1,2 @@
+Arquivo criado diretamente no repositório remoto.
+Este conteúdo será recebido no repositório local com git pull.
