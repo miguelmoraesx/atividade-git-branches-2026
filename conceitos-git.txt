@@ -1,0 +1,3 @@
+Git registra versões do projeto por meio de commits.
+O stage reúne as alterações que entrarão no próximo commit.
+O GitHub hospeda o repositório remoto e facilita a colaboração.
